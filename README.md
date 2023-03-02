@@ -36,9 +36,9 @@ We find that this architectures offer between a 30-40% improvement in accuracy c
 
 ## Utilities
 
-- [Models utils](./utils/models_utils.py)
-- [Plot utils](./utils/plot_utils.py)
-- [Preprocessing utils](./utils/preprocessing_utils.py)
+- [Models](./utils/models_utils.py)
+- [Plotting](./utils/plot_utils.py)
+- [Preprocessing](./utils/preprocessing_utils.py)
 
 ## Demo App
 
